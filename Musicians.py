@@ -1,5 +1,5 @@
 musicians = {
-    "MVO":[
+    "Mor Ve Otesi":[
         "deli",
         "Yardım et",
         "Cambaz",
@@ -23,7 +23,7 @@ musicians = {
         "Kara kutu"
     ],
 
-    "YS":[
+    "Yüksek Sadakat":[
         "Öksüz Yel"
         ,"Rengareng"
         ,"Sarışın, Beyaz ve İnce"
@@ -46,5 +46,45 @@ musicians = {
         ,"Döneceksin Diye Söz Ver"
         ,"Aklımın İplerini Saldım"
         ,"Yine de"
+    ],
+
+    "Sertap Erener":[
+        "Farzet"
+        ,"Belki de Dönerim"
+        ,"Olsun"
+        ,"Kime Diyorum"
+        ,"Mecbursun"
+        ,"Rengareng"
+        ,"Koparılan Çiçekler"
+        ,"Bir Çaresi Bulunur"
+        ,"İstanbul"
+        ,"Açık Adres"
+        ,"Öyle de Güzel"
+        ,"Yolun Başı"
+        ,"Zor Kadın"
+        ,"İncelikler"
+        ,"Güle Güle Şekerim"
+    ],
+
+    "Mabel Matiz":[
+        "Düldül"
+        ,"Gel"
+        ,"Sarışın"
+        ,"Bir Hadise var"
+        ,"Ahu"
+        ,"Barışırsa Ruhum"
+        ,"Fırtınadayım"
+        ,"A Canım"
+        ,"Mendilimde Kırmızım var"
+        ,"Öyle Kolaysa"
+        ,"Ya Bu İşler Ne"
+        ,"Yıldızların Peşinde"
+        ,"Toy"
+        ,"Yaşım Çocuk"
+        ,"Yıllar Saçlarına"
+        ,"Zor Değil"
+        ,"Aşk Yok Olmaktır"
+        ,"Tamburu Yokuştan"
     ]
+
 }
